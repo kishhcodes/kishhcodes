@@ -32,3 +32,9 @@ I'm a tech enthusiast with a knack for solving complex problems and a keen inter
 I'm always eager to connect with fellow tech enthusiasts, collaborate on projects, or simply engage in insightful discussions. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/krishnaa-saravanan-6b269b24a/).
 
 Let's innovate, learn, and build the future together! 🚀
+
+<h3>My GitHub contributions summary</h3>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=your_username&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kishhcodes&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
