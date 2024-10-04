@@ -25,8 +25,6 @@ I'm a tech enthusiast with a knack for solving complex problems and a keen inter
 
 - **DevOps**: I embrace DevOps practices to foster collaboration between development and operations teams, leveraging tools like Git, Jenkins, and Ansible for continuous integration and deployment.
 
-- **Machine Learning**: I have a growing interest in machine learning and data science, exploring algorithms and frameworks like TensorFlow and scikit-learn to derive insights from data.
-
 ## Get in Touch
 
 I'm always eager to connect with fellow tech enthusiasts, collaborate on projects, or simply engage in insightful discussions. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/krishnaa-saravanan-6b269b24a/).
